@@ -1,10 +1,1 @@
 this is the test code for OSSP project...
-
-practice) code fixed!!! at local
-practice) code fixed!!! at online
-
-practice) code fixed!!! but only at local...
-practice) code fixed only at online
-
-practice) code fixed only at main branch..
-practice) code fixed only at test branch..
